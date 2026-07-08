@@ -1,0 +1,6 @@
+{
+  "name": "EduPortail - School Enrollment",
+  "description": "Système complet de préinscription et de gestion scolaire (Étudiants et Administration).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
